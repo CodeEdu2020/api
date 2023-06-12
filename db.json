@@ -136,11 +136,13 @@
       "id": 3,
       "ime": "Haruki",
       "prezime": "Murakami"
-    },{
+    },
+    {
     "id":4,
     "ime":"Radovan",
     "prezime":"Brajovic"
-    }],
+    }
+  ],
   "zanrovi": [
     {
       "id": 1,
